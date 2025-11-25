@@ -607,6 +607,182 @@ TextureImporter:
       indices: 
       edges: []
       weights: []
+    - serializedVersion: 2
+      name: Player_Idel_1
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 130
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3edb2f4392f0c2b4a85af8266d33a2bc
+      internalID: 1819444986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Idel_2
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 98
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebcfb1fac2276d249b1d128f34d63a33
+      internalID: -908914244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Left_Idel_1
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 66
+        width: 15
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e38939546ec7d6b45b04c81f061ea3c1
+      internalID: 1706192657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Left_Idel_2
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 34
+        width: 15
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da20504f17113354c955ba4d0fbcf336
+      internalID: -173209980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Back_Idel_1
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 130
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2222b4a57fa18a4fbdc9a5fae13f9f8
+      internalID: -1572352313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Back_Idel_2
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 98
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d3612d7fe37d8047a9395fc119fdf64
+      internalID: 690709389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Right_Idel_1
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 66
+        width: 15
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f57c87b82823044f8ce40a2fb3c4786
+      internalID: 1588745277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Right_Idel_2
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 34
+        width: 15
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 459e90879d9646f42bcba2ba9526dd8c
+      internalID: 2139945366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     customData: 
     physicsShape: []
@@ -628,21 +804,29 @@ TextureImporter:
       Player_Back_2: 2473453845335418800
       Player_Back_3: 6472545519820947264
       Player_Back_4: 1486233581
+      Player_Back_Idel_1: -1572352313
+      Player_Back_Idel_2: 690709389
       Player_Front: -2311659948842064771
       Player_Front_1: -4709456396536258026
       Player_Front_2: -4245738604243887485
       Player_Front_3: 7365574002475698461
       Player_Front_4: 1019129722
+      Player_Idel_1: 1819444986
+      Player_Idel_2: -908914244
       Player_Left: -6287787046888575383
       Player_Left_1: -7446026091647042388
       Player_Left_2: -3287367053296241113
       Player_Left_3: -2472340072831945791
       Player_Left_4: 1344789442
+      Player_Left_Idel_1: 1706192657
+      Player_Left_Idel_2: -173209980
       Player_Right: -1182821291677670348
       Player_Right_1: 5938012242645255967
       Player_Right_2: -5319882733741912588
       Player_Right_3: 727353630
       Player_Right_4: 1709578438
+      Player_Right_Idel_1: 1588745277
+      Player_Right_Idel_2: 2139945366
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
