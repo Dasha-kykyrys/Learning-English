@@ -11,7 +11,7 @@ public class Movement : MonoBehaviour
     private Vector2 movement;
 
     // Анимация персонажа
-    public Animator anim;
+    private Animator anim;
 
     void Start()
     {
