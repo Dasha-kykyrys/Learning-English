@@ -106,7 +106,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f3e8759f793b9ed4c9bf0817518f2167, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::PlayerController
-  joystick: {fileID: 0}
+  joystick: {fileID: 3970799921521253773, guid: aaa2c939c0359ac4dbce3f49e8b90252, type: 3}
   moveSpeed: 2
 --- !u!50 &5708910044256393854
 Rigidbody2D:
