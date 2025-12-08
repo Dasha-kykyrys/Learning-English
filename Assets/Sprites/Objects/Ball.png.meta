@@ -129,7 +129,7 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Bal
+      name: Ball
       rect:
         serializedVersion: 2
         x: 1
@@ -186,7 +186,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      Bal: -3919779002189068522
+      Ball: -3919779002189068522
       Ball_Highlight: -7165607403067095034
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0

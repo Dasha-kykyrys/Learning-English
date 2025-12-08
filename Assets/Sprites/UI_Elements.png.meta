@@ -135,7 +135,7 @@ TextureImporter:
       name: UI_Button_Look
       rect:
         serializedVersion: 2
-        x: 5
+        x: 4
         y: 54
         width: 24
         height: 24
